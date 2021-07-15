@@ -110,6 +110,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# V. Large Test Image
+jdba2sooq_flc.fits
+
 # Spyder project settings
 .spyderproject
 .spyproject
